@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Karma</string>
+    <string name="Descriptor">ገላጭ</string>
+    <string name="about_address">አዲስ አበባ, ኢትዮጵያ</string>
+    <string name="about_card1_message">ሄይ, አቤኔዘር አበበ ነኔ</string>
+    <string name="about_card2_title">አፑን ክወደዳችሁት እኔን ማግኧት ትችላላቹ</string>
+    <string name="about_email_intent">ስለ ዳጉ NewsFeed</string>
+    <string name="about_not_found_email">E-mail አፑ  የለም አልተገኝም</string>
+    <string name="action_settings">ቅንብሮች</string>
+    <string name="nav_about">ስለ እኛ</string>
+    <string name="lang_amharic">አማርኛ</string>
+    <string name="lang_english">ኢንግሊዘኛ</string>
+    <string name="lang_tigrega">ትግርኛ</string>
+    <string name="lang_oromiga">ኦሮሚኛ</string>
+    <string name="nav_news_paper" translatable="false">ጋዜጣ</string>
+</resources>
